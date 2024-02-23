@@ -31,7 +31,3 @@ Bienvenue dans Maquillage Comparé, une application de comparaison de maquillage
 ## Développement
 
 Le développement de cette application a pris environ 3 à 4 jours, avec un accent particulier sur le design et le backend. Pour récupérer les données des produits auprès des différents magasins, nous avons utilisé des scripts Python pour indexer une grande partie des revendeurs.
-
-## Contribuer
-
-Nous accueillons favorablement toute contribution à notre projet ! Si vous souhaitez contribuer, n'hésitez pas à ouvrir une issue ou à proposer une pull request.
